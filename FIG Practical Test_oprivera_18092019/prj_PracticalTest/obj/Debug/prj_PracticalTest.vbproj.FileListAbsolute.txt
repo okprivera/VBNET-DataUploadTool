@@ -1,0 +1,27 @@
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\bin\Debug\prj_PracticalTest.exe.config
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\bin\Debug\prj_PracticalTest.exe
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\bin\Debug\prj_PracticalTest.pdb
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\bin\Debug\prj_PracticalTest.xml
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmMain.resources
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.Resources.resources
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.exe
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.xml
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.pdb
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmUpload.resources
+\\Mac\Home\Documents\Demo Projects\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmGenerate.resources
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\bin\Debug\prj_PracticalTest.exe.config
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\bin\Debug\prj_PracticalTest.exe
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\bin\Debug\prj_PracticalTest.pdb
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\bin\Debug\prj_PracticalTest.xml
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmGenerate.resources
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmMain.resources
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.frmUpload.resources
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.Resources.resources
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.exe
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.xml
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.pdb
+\\Mac\Home\Desktop\FIG Practical Test_oprivera_18092019\prj_PracticalTest\obj\Debug\prj_PracticalTest.vbprojAssemblyReference.cache
