@@ -3,8 +3,11 @@ Simple data upload and generate tool using VB.NET
 
 
 OS: Windows 7 Pro
+
 Programming Language: VB.NET (Visual Studio 2019)
+
 .NET Framework: 4.7.2
+
 MS SQL Version: Microsoft SQL Server Management Studio	12.0.6108.1 (2014)
 
 Notes:
