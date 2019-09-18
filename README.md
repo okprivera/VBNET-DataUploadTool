@@ -14,3 +14,5 @@ Notes:
 1. Please run CREATE DATABASE.txt to create db, tables and stored procedures.
 2. The connection string was set to use "localhost" and in window authentication mode. See modPractical.vb inside the code.
 3. This is simple UI to achieve the goal. Step 1 was to upload the SampleData.csv followed by Generation using datagrid technique.
+
+See project timeline for other info.
